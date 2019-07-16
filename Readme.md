@@ -10,7 +10,7 @@ This is the simple python script that help to find the tweets of `Jofra  Archer`
 
 `git clone git@github.com:JOSHUAJEBARAJ/jorfa-tweets.git`
 
-- Move into `JORFA_TWEETS`   folder
+- Move into `jofra_tweets`   folder
 
 - use the `python` script   
 ## Usage
