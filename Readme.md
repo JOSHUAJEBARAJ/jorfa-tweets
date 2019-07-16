@@ -1,7 +1,18 @@
 # Jorfa Tweets
 
-This is the simple python script that help to find the tweets of `Jorfa  Archer` using specific keyword
+This is the simple python script that help to find the tweets of `Jofra  Archer` using specific keyword
 
+
+## Setting up
+
+- clone this repo
+
+
+`git clone git@github.com:JOSHUAJEBARAJ/jorfa-tweets.git`
+
+- Move into `JORFA_TWEETS`   folder
+
+- use the `python` script   
 ## Usage
 
 ```
